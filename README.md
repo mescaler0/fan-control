@@ -1,4 +1,4 @@
-# Corsair AI 300 Fan Controller
+# Linux Fan Controller
 
 A lightweight bash script for automatic temperature-based fan control arch\fedora based Linux systems with PWM fan support.
 
